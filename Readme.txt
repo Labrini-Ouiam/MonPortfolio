@@ -1,6 +1,30 @@
-Thanks for downloading this template!
+# 💼 Mon Portfolio - Labrini Ouiam
 
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Bienvenue sur mon portfolio personnel !  
+Ce projet présente mes compétences, mes projets, et mon parcours dans le domaine du développement web.
+
+🔗 **Lien du site déployé :**  
+👉 [https://labrini-ouiam.github.io/MonPortfolio/](https://labrini-ouiam.github.io/MonPortfolio/)
+
+## 🛠️ Technologies utilisées
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+## 🚀 Objectif
+
+Ce site a pour but de :
+- Me présenter de manière professionnelle
+- Mettre en avant mes projets personnels ou académiques
+- Fournir un moyen de contact simple
+
+## 📬 Contact
+
+Tu peux me contacter via [LinkedIn](#) ou par e-mail : _tonemail@example.com_
+
+---
+
+Merci pour ta visite ! 😊
+
