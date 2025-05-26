@@ -20,11 +20,5 @@ Ce site a pour but de :
 - Mettre en avant mes projets personnels ou académiques
 - Fournir un moyen de contact simple
 
-## 📬 Contact
-
-Tu peux me contacter via [LinkedIn](#) ou par e-mail : _tonemail@example.com_
-
----
-
 Merci pour ta visite ! 😊
 
